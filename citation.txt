@@ -1,0 +1,7 @@
+@inproceedings{REPO098,
+    author = "Zhang, Lu and Rong, Qian and Ding, Xuanang and Li, Guohui and Yuan, Ling",
+    booktitle = "Proceedings of the 33rd ACM International Conference on Information and Knowledge Management",
+    pages = "3176--3185",
+    title = "{EFVAE: Efficient Federated Variational Autoencoder for Collaborative Filtering}",
+    year = "2024"
+}
